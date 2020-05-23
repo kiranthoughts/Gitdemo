@@ -8,6 +8,7 @@ public class selenium1Test {
 	public void uielement1()
 	{
 		System.out.println("hi this is selenium element one");
+		System.out.println("hi this is selenium element oneone");
 		
 
 	}
